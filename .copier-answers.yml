@@ -1,12 +1,14 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: 6ba476c
-_src_path: notebook-template
+_commit: ffcb0ae
+_src_path: https://github.com/SS-NES/notebook-template
 citation: false
-code_of_conduct: false
+code_of_conduct: true
 community: false
-copyright_holder: Iowner
-documentation: false
-owner: Iowner
-project_name: awesome-project
-project_purpose: The purpose of Awesome is ...
+contact_email: contact@gmail.com
+copyright_holder: John Doe
+documentation: true
+documentation_type: user
+owner: John Doe
+project_name: Fibonacci Sequence
+project_purpose: To show fibonacci sequence
 software_license: MIT License
