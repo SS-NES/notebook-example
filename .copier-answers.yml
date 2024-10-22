@@ -1,14 +1,14 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: ffcb0ae
+_commit: 947df33
 _src_path: https://github.com/SS-NES/notebook-template
-citation: false
+citation: true
 code_of_conduct: true
 community: false
 contact_email: contact@gmail.com
 copyright_holder: John Doe
 documentation: true
-documentation_type: user
+documentation_type: user & developer
 owner: John Doe
-project_name: Fibonacci Sequence
-project_purpose: To show fibonacci sequence
-software_license: MIT License
+project_name: Fibonacci Number
+project_purpose: To show fibonacci number
+software_license: Mozilla Public License 2.0 (MPL 2.0)
